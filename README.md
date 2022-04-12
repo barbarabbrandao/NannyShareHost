@@ -1,0 +1,2 @@
+# NannyShareHost
+VersãoSimplificada
